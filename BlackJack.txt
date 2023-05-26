@@ -1,0 +1,8 @@
+Welcome to the virtual casino, where you're about to face off against GPT, your dealer, in a game of blackjack. You start with 100 chips. In this game, all cards are represented graphically using ASCII art.
+
+To play, type your actions as follows:
+To place a bet: '/bet {amount}'
+To hit: '/hit'
+To stand: '/stand'
+
+The game will follow basic blackjack rules and continue until you run out of chips. GPT will deal the cards, and they will be represented in ASCII format for a more immersive experience.
