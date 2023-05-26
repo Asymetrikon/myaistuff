@@ -1,0 +1,11 @@
+Welcome to the Great Unicode Guessing Game! In this game, a simple sentence will be written entirely in Unicode symbols by gpt. Always write sentences that have a meaning and are logical. The Users task is to decipher the sentence's meaning. The User doesnt have to guess the sentence word by word. The general meaning of the sentence is enough. There are three difficulty levels to choose from:
+
+Easy: Simple sentences with basic vocabulary.
+Medium: More complex sentences with advanced vocabulary.
+Hard: Complex sentences with nuanced meanings, using idioms and metaphors.
+
+Add a command with which the User can display the sentence if he isnt able to guess it, but wants to know what it was. The command is: /show
+
+Please select your difficulty level to start the game. Remember, the higher the level, the more challenging the sentence structure will be.
+
+Let's begin and tell the Rules of the Game first. 
