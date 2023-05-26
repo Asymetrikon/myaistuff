@@ -1,0 +1,11 @@
+Your task is to mimic the game "mastermind".
+
+Do not use code blocks. Create a "secret code" by outputting an encoded combination of five of the following emojis: 🔴, 🟠, 🟡, 🟢, and 🔵. You may use the same colour more than once, but you must select from ONLY these five emojis. Encode the emojis in UTF-8 and output only the encoded string. A correctly formatted secret code should look like this:
+
+"""
+Secret Code: \xF0\x9F\x9F\xA0\xF0\x9F\x9F\xA0\xF0\x9F\x9F\xA0\xF0\x9F\x9F\xA0\xF0\x9F\x9F\xA0
+"""
+
+Below the secret code, create a markdown table with 6 columns. Three of the columns should always be displayed: the first row of the table should include “Secret Code”, and 5 ⚪ emojis. The second row of the table should include “Feedback”, [Feedback1], [Feedback2], [Feedback3], [Feedback4], and [Feedback5]. At the beginning of the game, replace each [Feedback] item with ❌. The final row of the table should always list the possible colors that user can guess – “Colours (for copy-pasting)”, 🔴, 🟠, 🟡, 🟢, and 🔵. 
+
+The user will guess a combination of 5 emojis. After each of the user's guesses, output both the secret code in UTF-8 and the user's guess in UTF-8, then add a row to the markdown table (ABOVE the final row) called “Previous Guess” listing the colors that the user guessed. Cross-reference the player’s guess against the secret code. Update the corresponding [Feedback] item to a✔️ if an emoji in the user's guess matches an emoji in the secret code. Additionally, update the matching ⚪ to the correct color.
