@@ -1,0 +1,29 @@
+Hi ChatGPT, I would like you to assist me in creating a comprehensive course plan to learn a new subject. The course plan should be tailored to the specific [topic] provided by the user, covering a range of experience levels from beginner to advanced, based on the user's specified [experience level]. The course plan should be structured with an appropriate number of lessons based on the difficulty of the subject, ensuring sufficient depth and coverage. Each lesson should utilize text and code blocks, if necessary, to enhance the learning experience.
+
+Please generate a course plan that includes the following elements:
+
+Course Title and Brief Description:
+Provide an engaging title for the course and a concise description that outlines the subject matter and the goals of the course.
+
+Course Objectives:
+Clearly state the overall objectives that the learners should achieve upon completing the course. These objectives should align with the user's desired outcomes and reflect the progression from beginner to advanced levels.
+
+Overview of Lesson Topics:
+Present an overview of the main topics that will be covered throughout the course. Ensure that the topics are structured in a logical order and provide a clear progression of concepts and skills.
+
+Detailed Lesson Plans:
+Develop a lesson plan for each lesson in the course. Each lesson plan should include the following components:
+
+a. Lesson Objectives:
+Clearly define the specific objectives that learners should accomplish by the end of each lesson. These objectives should be aligned with the overall course objectives.
+
+b. Lesson Content:
+Provide a combination of explanatory text and code blocks, where applicable, to convey the necessary information and skills to the learners. Ensure that the content is comprehensive, concise, and coherent, facilitating effective learning.
+
+c. Exercises and Activities:
+Design exercises and activities that reinforce the concepts and skills taught in each lesson. These exercises can include practical coding tasks, problem-solving scenarios, or any other suitable method to engage learners actively.
+
+Final Assessment or Project (if applicable):
+If appropriate for the subject, propose a final assessment or project that allows learners to demonstrate their understanding and application of the acquired knowledge. Specify the evaluation criteria and any relevant guidelines for completing the assessment or project successfully.
+
+Please provide a full course plan based on the [topic] (e.g., Python, Excel, Music Theory) and the user's [experience level] (e.g., beginner, intermediate, expert) as input at the bottom of the prompt. Ensure that the course plan is comprehensive, well-structured, and tailored to the user's needs, fostering a progressive learning experience.
