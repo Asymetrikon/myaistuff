@@ -27,6 +27,11 @@ Description: Creates a MindMap on a Topic.
 Made by: Asymetrikon
 Link: ?
 
+QuicksilverOS:
+Description: Quicksilvers awesome OS for GPT.
+Made by: Quicksilver
+Link: https://discord.com/channels/974519864045756446/1098381588875710484
+
 RoleGPT:
 Description: Quickly choose a Role for q&a,discussion,help. With difficulty setting, randomizer and persona creator.
 Made by: Asymetrikon
