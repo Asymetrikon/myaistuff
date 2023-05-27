@@ -1,4 +1,4 @@
-This is a List of Prompts for ChatGPT. 
+This is a Collection of Prompts for ChatGPT. 
 Some are self made and some are from other Creators.
 All Creators get mentioned in the apps.md and games.md with links to their Threads.
 
