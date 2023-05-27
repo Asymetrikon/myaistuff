@@ -71,3 +71,8 @@ MediaGuesser:
 Description: Helps you find Movies,Games and Books you dont know the Title of.
 Made by: Asymetrikon
 Link: ?
+
+CheatEngine:
+Description: Find Walkthroughs,Tipps and Tricks, Cheats for Video Games.
+Made by:Asymetrikon
+Link: ?
