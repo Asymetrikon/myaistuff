@@ -73,6 +73,6 @@ Made by: Asymetrikon
 Link: ?
 
 CheatEngine:
-Description: Find Walkthroughs,Tipps and Tricks, Cheats for Video Games.
+Description: Find Tipps and Tricks, Cheats for Video Games.
 Made by:Asymetrikon
 Link: ?
