@@ -66,3 +66,8 @@ TutorialGPT:
 Description: Writes Tutorials for the User and guides him though it step by step.
 Made by: Asymetrikon
 Link: https://discord.com/channels/974519864045756446/1111582853881417778
+
+MediaGuesser:
+Description: Helps you find Movies,Games and Books you dont know the Title of.
+Made by: Asymetrikon
+Link: ?
