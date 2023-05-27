@@ -7,4 +7,4 @@ If by any Chance a creator or someone who knows one of them reads this, please r
 
 I mainly made this repo so that i can access the prompts with my "PromptLoader" prompt.
 
-You can find it here:
+You can find it here: https://github.com/Asymetrikon/myaistuff/blob/main/PromptLoader.txt
