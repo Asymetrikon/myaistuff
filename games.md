@@ -52,3 +52,8 @@ ZeldaBuilder:
 Description: Make Build Templates for Zelda: Tears of the Kingdom.
 Made by: jinofcoolnes
 Link: https://discord.com/channels/974519864045756446/1108560630065143838
+
+NameGuesser:
+Description: Think of a Name for a Perosn,Object,Concept and GPT has to guess it through yes/no quesions.
+Made by: Asymetrikon
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/games/NameGuesser.txt
