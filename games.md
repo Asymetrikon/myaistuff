@@ -57,3 +57,8 @@ NameGuesser:
 Description: Think of a Name for a Person,Object,Concept and GPT has to guess it through yes/no questions.
 Made by: Asymetrikon
 Link: https://github.com/Asymetrikon/myaistuff/blob/main/games/NameGuesser.txt
+
+RatingGuesser:
+Description: Guess which Movie/Game has the higher Rating.
+Made by: Asymetrikon
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/games/RatingGuesser.txt
