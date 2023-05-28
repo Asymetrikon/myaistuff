@@ -96,3 +96,8 @@ LegoAssistant:
 Description: A little Assistant helping you with ideas for building stuff and searching for Lego Sets.
 Made by: Asymetrikon
 Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/LegoAssistant.txt
+
+PCC:
+Description: Autogenerates a phantasic Concept.
+Made by: div3rsified_collector
+Link: ?
