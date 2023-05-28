@@ -30,7 +30,7 @@ Link: https://discord.com/channels/974519864045756446/1097061522347401309
 MindMap:
 Description: Creates a MindMap on a Topic.
 Made by: Asymetrikon
-Link: ?
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/MindMap.txt
 
 QuicksilverOS:
 Description: Quicksilvers awesome OS for GPT.
@@ -85,9 +85,14 @@ Link: https://discord.com/channels/974519864045756446/1111582853881417778
 MediaGuesser:
 Description: Helps you find Movies,Games and Books you dont know the Title of.
 Made by: Asymetrikon
-Link: ?
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/MediaGuesser.txt
 
 CheatEngine:
 Description: Find Tipps and Tricks, Cheats for Video Games.
 Made by:Asymetrikon
-Link: ?
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/CheatEngine.txt
+
+LegoAssistant:
+Description: A little Assistant helping you with ideas for building stuff and searching for Lego Sets.
+Made by: Asymetrikon
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/LegoAssistant.txt
