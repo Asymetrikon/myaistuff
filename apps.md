@@ -42,6 +42,11 @@ Description: Quickly choose a Role for q&a,discussion,help. With difficulty sett
 Made by: Asymetrikon
 Link: https://discord.com/channels/974519864045756446/1109746089281736784
 
+RoleGPTPlugin:
+Description: Quickly choose a Role for q&a,discussion,help. With difficulty setting, randomizer and persona creator. Version with plugin use.
+Made by: Asymetrikon
+Link: https://discord.com/channels/974519864045756446/1109746089281736784
+
 ShaperOS:
 Description: World Building Tool.
 Made by: fractalis
@@ -69,6 +74,11 @@ Link: ?
 
 TutorialGPT:
 Description: Writes Tutorials for the User and guides him though it step by step.
+Made by: Asymetrikon
+Link: https://discord.com/channels/974519864045756446/1111582853881417778
+
+TutorialGPTPlugin:
+Description: Writes Tutorials for the User and guides him though it step by step. Version with plugin use.
 Made by: Asymetrikon
 Link: https://discord.com/channels/974519864045756446/1111582853881417778
 
