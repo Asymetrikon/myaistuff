@@ -1,0 +1,50 @@
+Corporate AI Projects:
+
+https://openai.com/  | ChatGPT, Dall E
+https://www.wolframalpha.com/ | AI for computing answers and providing knowledge
+https://www.deepl.com/ | Translator AI
+https://www.midjourney.com/ | Text to Image using Stable Diffusion and Dream Booth
+https://supermachine.art/ | Text to Image
+https://www.genmo.ai/  | Text to Video
+https://aiva.ai/  | Music Generation
+https://runwayml.com/ | Video Generation
+https://lumalabs.ai/ | 3D Render AI
+https://www.blockadelabs.com/ | 360° Skybox Generation
+https://ludo.ai/ | Research & Ideation Tool for Game Designers and Developers
+https://leonardo.ai/ | Create Game Assets
+https://whatgpt.app/ | GPT Whatsapp Plugin
+https://www.myheritage.de/deep-nostalgia | Animate Photos
+https://wistlabs.com/ | Convert Video to VR Experience
+https://beta.elevenlabs.io/ | Prime AI Text to Speech, Voice Cloning
+https://originality.ai/ | AI Detector and Plagiarism Checker
+https://www.humanornot.ai/ | AI Turing Test
+https://www.pinecone.io/ | Long Term Memory for AI
+https://artifylabs.io/ | AI supported drawing
+https://lovelacestudio.com/?ref=theresanaiforthat | Text to Metaverse/Game
+https://www.verses.ai/ | Kosm OS
+
+Open Source Projects:
+
+https://tilemaker.app/ | Tile Generation
+https://github.com/nomic-ai/gpt4all | Open Source AI
+https://github.com/LagPixelLOL/ChatGPTCLIBot | CLI Bot with Long Term Memory
+https://github.com/Significant-Gravitas/Auto-GPT | Auto GPT
+https://github.com/AkshitIreddy/CUPCAKEAGI | Cupcake AGI
+https://replicate.com/andreasjansson/blip-2 | Blip2 Image recognition
+https://github.com/qunash/chatgpt-advanced | Internet Access Browser Extension for ChatGPT
+
+AI Games:
+
+https://aidungeon.io/ | AI generated Text Adventures
+https://www.forgesaga.com/ | More Text Adventures
+
+Discord Bots:
+
+https://autocode.com/openai/templates/discord-gpt/ | Autocode Hosted
+https://github.com/Kav-K/GPTDiscord | GPTBot (best one so far)
+
+Misc.:
+
+https://flowgpt.com/ | Prompt Library
+https://www.prompts4all.com/ | Prompt Library
+https://huggingface.co/ | AI Models, Datasets, Spaces
