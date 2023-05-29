@@ -9,4 +9,4 @@ Images in this repo were made by me with MidJourney.
 
 I mainly made this repo so that i can use it in combination with my "GitHubAssistant" prompt for GPT4.
 
-You can find it here: https://github.com/Asymetrikon/myaistuff/blob/main/apps/PromptLoader.txt
+You can find it here: https://github.com/Asymetrikon/myaistuff/blob/main/apps/GitHubAssistant.txt
