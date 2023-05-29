@@ -2,10 +2,10 @@ Prompts Description
 
 Apps:
 
-PromptLoader:
+GitHubAssistant:
 Description: A prompt that uses the prompts in this repo as instruction for the conversation.
 Made by: Asymetrikon
-Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/PromptLoader.txt
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/GitHubAssistant.txt
 
 CodeExplain:
 Explains a Piece of Code to the User.
