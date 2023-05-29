@@ -7,6 +7,6 @@ If by any Chance a creator or someone who knows one of them reads this, please r
 
 Images in this repo were made by me with MidJourney.
 
-I mainly made this repo so that i can access the prompts with my "PromptLoader" prompt.
+I mainly made this repo so that i can use it in combination with my "GitHubAssistant" prompt for GPT4.
 
 You can find it here: https://github.com/Asymetrikon/myaistuff/blob/main/apps/PromptLoader.txt
