@@ -1,3 +1,5 @@
+List of all Prompts (with Creators Name and Link) that werent made by me.
+
 1. MetaMJ: Made by: Quicksilver Link: https://discord.com/channels/974519864045756446/1097061522347401309
 2. QuicksilverOS: Made by: Quicksilver Link: https://discord.com/channels/974519864045756446/1098381588875710484
 3. ShaperOS: Made by: fractalis Link: https://discord.com/channels/974519864045756446/1103437618378715230
