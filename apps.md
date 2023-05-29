@@ -101,3 +101,8 @@ PCC:
 Description: Autogenerates a phantasic Concept.
 Made by: div3rsified_collector
 Link: ?
+
+TarotcardReader:
+Description: Tarot Crad Reader
+Made by: gods_software
+Link: https://discord.com/channels/974519864045756446/1075126555644272750
