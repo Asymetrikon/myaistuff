@@ -106,3 +106,8 @@ TarotcardReader:
 Description: Tarot Crad Reader
 Made by: gods_software
 Link: https://discord.com/channels/974519864045756446/1075126555644272750
+
+NewsPaper:
+Description: GPT generates a Newspaper from the News Plugin.
+Made by: Asymetrikon
+Link: https://github.com/Asymetrikon/myaistuff/blob/main/apps/NewsPaper.txt
