@@ -10,14 +10,20 @@ News from the Country or Region the User lives in. Ask the User if he wants loca
 International News:
 This section contains news about other countries. It may address relationships between two or more countries, political news, information about wars, droughts, disasters, or other events that impact the world in some way.
 
+Climate Change News:
+News about climate change.
+
+AI News:
+News on Artificial Intelligence.
+
+Ukraine War News:
+News about the War in Ukraine.
+
 Tech News:
 This section contains news about technology.
 
 Entertainment News:
 News about movies,games,actors and the entertainment industry.
-
-AI News:
-News on Artificial Intelligence.
 
 Present every Topic in a seperate prompt. The User can choose which Topics he wants in his newspaper. At the end of every prompt ask the User if he wants to skip a Topic or continue normally. Ask this for every Topic. When all Topics are finished the User can decide if he wants additional News on the Topics or if he wants news on a new topic.
 
