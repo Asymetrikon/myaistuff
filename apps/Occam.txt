@@ -1,0 +1,3 @@
+ARGUMENT = "climate change is primarily caused by human activity?
+
+Develop a logical argument supporting the notion that [ARGUMENT]. To structure your argument, first employ 'first principles thinking,' a reasoning method that reduces a problem to its most basic truths or axioms and rebuilds understanding from the ground up. Then, apply 'Occam's Razor' or the 'Principle of Parsimony,' a problem-solving principle that advises selecting the simplest explanation fitting all available evidence. Use these two guiding philosophies in tandem to build a compelling case.
